@@ -1,0 +1,3 @@
+[submodule "lib/sql-parser"]
+	path = lib/sql-parser
+	url = git@github.com:hyrise/sql-parser.git

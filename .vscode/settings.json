@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.json": "jsonc",
+        "*.ipp": "cpp",
+        "*.tcc": "cpp",
+        "istream": "cpp"
+    }
+}
